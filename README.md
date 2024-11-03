@@ -1,6 +1,6 @@
 # landing page - let's go, pikachu
 
-![](./screenshot/image.png)
+![](./img/mewtwo.png)
 
 ---
 
